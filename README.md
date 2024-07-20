@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm suman suhag</h1>
-<h3 align="center">I am data science</h3>
+<h3 align="center">I am Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansuhag&label=Profile%20views&color=0e75b6&style=flat" alt="sumansuhag" /> </p>
 
