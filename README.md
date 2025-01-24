@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm suman suhag</h1>
-<h3 align="center">Transforming Raw Data Into Actionable Insights</h3>
+<h3 align="center">"Transforming Raw Data Into Actionable Insights" </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansuhag&label=Profile%20views&color=0e75b6&style=flat" alt="sumansuhag" /> </p>
 
 - 🌱I’m currently exploring advanced topics in Data Science to further enhance my expertise after completing my graduation in this field.
 
-- 💬 Ask me about **Data science, Machine Learning, statistics**
+- 💬 Ask me about **Data science, Algorithum, Machine Learning, statistics**
 
 - 📫 How to reach me **suman7082731742@gmail.com**
 
