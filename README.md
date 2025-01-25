@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/suman_suhag](https://www.datascienceportfol.io/suman_suhag)
 
-- 📝 I regularly write articles on [I am Writing about both data science and spirituality shows a unique balance of logic and devotion.](I am Writing about both data science and spirituality shows a unique balance of logic and devotion.)
+- 📝 I regularly write articles on I am Writing about both data science and spirituality shows a unique balance of logic and devotion.
 
 - 💬 Ask me about **Data science**
 
