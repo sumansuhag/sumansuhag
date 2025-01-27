@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.kaggle.com/sumansuhag" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/nRSVapPkkViCe8qb7" alt="kaggle" width="40" height="40"/> </a>
+  <a href="https://www.kaggle.com/sumansuhag" target="_blank" rel="noreferrer"> <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
