@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **suman7082731742@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19DS9UStvir6-yxhTEjZS_IcU8_Nhagcx/view?usp=drive_link](https://drive.google.com/file/d/19DS9UStvir6-yxhTEjZS_IcU8_Nhagcx/view?usp=drive_link)
-
 - ⚡ Fun fact **The refuge or path of all beings.**
 
 <h3 align="left">Connect with me:</h3>
