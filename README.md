@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansuhag&label=Profile%20views&color=0e75b6&style=flat" alt="sumansuhag" /> </p>
 
-- 🔭 I’m currently working on [Machine learning project](https://colab.research.google.com/drive/12qnCkji4YTI7mpXoSlDFNwECT1xrVXuA?authuser=0#scrollTo=68fL_OtUhsk9&uniqifier=2)
-
 - 🌱 I’m currently learning **Data science**
 
 - 👯 I’m looking to collaborate on [Kaggle project](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2)
