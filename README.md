@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👯 I’m looking to collaborate on [Kaggle project](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2)
-
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/suman_suhag](https://www.datascienceportfol.io/suman_suhag)
 
 - 📝 I regularly write articles on I am Writing about both data science and spirituality shows a unique balance of logic and devotion.
@@ -19,8 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.kaggle.com/sumansuhag" target="_blank" rel="noreferrer"> <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="kaggle" width="40" height="40"/> </a>
-  <a href="https://www.linkedin.com/in/suman-suhag/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BHqeLmhrX81bR9fGGlel--ShBz_ZhqfhBw&s" alt="linkedin" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
